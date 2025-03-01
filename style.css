@@ -9,3 +9,7 @@ h1 {
     text-decoration: underline;
     text-underline-offset: 15px;
 }
+
+p {
+    text-align: center;
+}
